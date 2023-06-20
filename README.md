@@ -1,15 +1,15 @@
 ### Hi there, I'm Asmae Mouradi 👋
 
 
-## I'm a Computer Science Engineering Student with maths minor, Space Exploration Enthusiast, Developer, and Math Lover!!
+## I'm a Computer Science Student with maths minor, Developer. I love hiking and exploring the world!
 
 
 
 - 🔭 I’m currently doing an exchange semester [Georgia, Atlanta]
 
-- 🌱 I’m currently improving my problem solving skills by doing leetcode Problem.
+- 🌱 I’m currently preparing for an upcoming internship by doing leetcode problems.
 
-- 👨‍💻 All of my projects are available at GitHub
+- 👨‍💻 All of my projects are available in GitHub
 
 - 📝 
 
