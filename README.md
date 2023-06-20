@@ -11,8 +11,4 @@
 
 - 👨‍💻 All of my projects are available in GitHub
 
-- 📝 
-
 - 📫 How to reach me **amouradi2002@gmail.com**
-
-- ⚡ 
