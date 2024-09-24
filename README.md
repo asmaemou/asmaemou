@@ -1,7 +1,7 @@
 ### Hi there, I'm Asmae Mouradi 👋
 
 
-## I'm a Computer Science Student with maths minor, Developer. I love hiking and exploring the world!
+## I'm a Computer Science Student interested by AI , Developer. I love hiking and exploring the world!
 
 
 
