@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently doing an exchange semester [Georgia, Atlanta]
+- 🔭 I’m currently doing my master on computer science at WSU (wichita state university) Kansas,USA
 
 - 🌱 I’m currently preparing for an upcoming internship by doing leetcode problems.
 
