@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently doing my master on computer science at WSU (wichita state university) Kansas,USA
+- 🔭 I’m currently doing my PhD at WSU (wichita state university) Kansas,USA
 
-- 🌱 I’m currently preparing for an upcoming internship by doing leetcode problems.
+- 🌱 I’m working on detecting damage building from natural disaster from deep learning models
 
 - 👨‍💻 All of my projects are available in GitHub
 
